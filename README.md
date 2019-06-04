@@ -1,4 +1,4 @@
 # NodeJsLab03-sequelize
 
-Для старта приложения нужно ввести команду "npm run start".
-Добавлена интеграция по OAuth2 с ВК.
+To start an application, enter the command "npm run start" on the command line.
+Added OAuth2 integration with VK.
